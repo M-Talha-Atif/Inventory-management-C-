@@ -1,0 +1,17 @@
+D:\Fiverr\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\Fiverr\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\Fiverr\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.AdminMain.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.LoginAdmin.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.LoginUser.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.Main.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.ProductsModifications.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.SignUpUser.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.UserMain.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.UserModify.resources
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\Fiverr\InventoryManagement\obj\Debug\InventoryManagement.pdb
